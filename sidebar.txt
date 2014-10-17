@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[iko:home|Door43 (iko)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-iko|d43-iko repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-iko/archive/master.zip|d43-iko.zip]]
+
+**Recent Changes**
+{{changes>ns = iko}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/iko|Ethnologue data]]
+
